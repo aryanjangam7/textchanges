@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/textchanges/static/css/main.31d6cfe0.css",
+    "main.js": "/textchanges/static/js/main.4be0dde5.js",
+    "index.html": "/textchanges/index.html",
+    "main.4be0dde5.js.map": "/textchanges/static/js/main.4be0dde5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4be0dde5.js"
+  ]
+}
