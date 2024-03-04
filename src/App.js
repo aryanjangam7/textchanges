@@ -18,12 +18,13 @@ function App() {
       
   }
   return (
-    <BrowserRouter>
-      <Navbar title="TextLogo" mode={mode} toggleMode={toggleMode}/>
-      <Routes>
-        <Route path='/' element={<InputUppercase mode={mode}/>}></Route>
-      </Routes>
-    </BrowserRouter>
+    // <BrowserRouter>
+    //   <Navbar title="TextLogo" mode={mode} toggleMode={toggleMode}/>
+    //   <Routes>
+    //     <Route path='/' element={<InputUppercase mode={mode}/>}></Route>
+    //   </Routes>
+    // </BrowserRouter>
+    <h1>aryan</h1>
   );
 }
 
