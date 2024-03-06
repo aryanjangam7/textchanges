@@ -18,10 +18,10 @@ function App() {
       
   }
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/textchanges'>
       <Navbar title="TextLogo" mode={mode} toggleMode={toggleMode}/>
       <Routes>
-        <Route path='/' element={<InputUppercase mode={mode}/>}></Route>
+        <Route exact path='/' element={<InputUppercase mode={mode}/>}></Route>
       </Routes>
     </BrowserRouter>
     // <h1>aryan</h1>
